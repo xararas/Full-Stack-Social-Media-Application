@@ -1,3 +1,6 @@
+package com.bham.fsd.assignments.jabberserver;
+
+// Charalampos Kalakos 2165173
 
 import java.sql.Connection;
 import java.sql.DriverManager;
